@@ -1,0 +1,8 @@
+C:\Users\СИМЕОН\Documents\c-sharp\OOP-Homework\OOP-Homework\bin\Debug\OOP-Homework.exe.config
+C:\Users\СИМЕОН\Documents\c-sharp\OOP-Homework\OOP-Homework\bin\Debug\OOP-Homework.exe
+C:\Users\СИМЕОН\Documents\c-sharp\OOP-Homework\OOP-Homework\bin\Debug\OOP-Homework.pdb
+C:\Users\СИМЕОН\Documents\c-sharp\OOP-Homework\OOP-Homework\obj\Debug\OOP-Homework.csproj.AssemblyReference.cache
+C:\Users\СИМЕОН\Documents\c-sharp\OOP-Homework\OOP-Homework\obj\Debug\OOP-Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\СИМЕОН\Documents\c-sharp\OOP-Homework\OOP-Homework\obj\Debug\OOP-Homework.csproj.CoreCompileInputs.cache
+C:\Users\СИМЕОН\Documents\c-sharp\OOP-Homework\OOP-Homework\obj\Debug\OOP-Homework.exe
+C:\Users\СИМЕОН\Documents\c-sharp\OOP-Homework\OOP-Homework\obj\Debug\OOP-Homework.pdb
